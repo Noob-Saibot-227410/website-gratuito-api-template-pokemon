@@ -41,7 +41,7 @@ https://github.com/Noob-Saibot-227410/website-a-venda-culinaria-service/assets/1
 
 ## **COMO USAR E REQUISITOS**
 
-- 1º Clone o repositório do Noob_Saibot_22742410 https://github.com/Noob-Saibot-227410/website-gratuito-api-template-pokemon.git;
+- 1º git clone https://github.com/Noob-Saibot-227410/website-gratuito-api-template-pokemon.git;
 - 2º Precisa ter o node instalado;
 - 3º Descompactar a pasta zipada clicando com o botão direito do mouse;
 - 4º Entre no diretório que descompactou os arquivos;
