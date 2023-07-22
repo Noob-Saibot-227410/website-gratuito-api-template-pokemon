@@ -73,8 +73,6 @@ https://github.com/Noob-Saibot-227410/website-a-venda-culinaria-service/assets/1
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
       <br>JavaScript
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" width="48" height="48" alt="Node.js" />
       <br>Node.js
